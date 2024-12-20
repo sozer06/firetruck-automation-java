@@ -1,2 +1,2 @@
-# firetruck_automation_javaswing
+# firetruck automation javaswing
  A simple fire department automation program using java swing
